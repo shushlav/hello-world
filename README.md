@@ -1,2 +1,4 @@
 # hello-world
-first practice with Github
+My name is Yael
+I'm 49 years old
+I am a Vet
